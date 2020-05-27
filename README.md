@@ -1,3 +1,3 @@
 # OmniFood
 
-This is a Udemy project. I was provided with a mock-up of a meal deliery company and did my best to replicate it coding from scratch. Images were provided. Practicing my HTML5, CSS3, and jQuery with a focus on moblie responsivness.  
+I was provided with a mock-up of a meal deliery company and did my best to replicate it. Images and conent was provided. Practicing my HTML5, CSS3, and jQuery with a focus on moblie responsivness.  
