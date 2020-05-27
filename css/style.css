@@ -41,11 +41,19 @@ html{
      display: inline-block;
      margin-left: 40px;
  }
- .main-nav li a{
+ .main-nav li a:link,
+ .main-nav li a:visited{
+     padding: 8px 0;
      text-decoration: none;
      color: #fff;
      text-transform: uppercase;
      font-size: 1em;
+     border-bottom: 2px dashed transparent;
+ }
+ .main-nav li a:hover,
+ .main-nav li a:active{
+    border-bottom: 2px solid #e67e22;
+    transition: border-bottem 0.2s;
  }
  
  h1{
