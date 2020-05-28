@@ -69,3 +69,50 @@ html{
  }
 
  /*END STYLING FOR HEADER-----------------------------------*/
+
+ /*FEATURES SECTION-----------------------------------------*/
+
+ section{
+     padding: 80px 0;
+ }
+/*GET FOOD FAST*/
+ h2{
+     font-family: 'Lato', Arial, Helvetica, sans-serif;
+     font-size: 2.4em;
+     letter-spacing: 2px;
+     word-spacing: 4px;
+     margin-bottom: 35px;
+     text-align: center;
+     text-rendering: optimizeLegibility;
+     
+ }
+ /*HELLO, WE'RE OMNIFOOD*/
+ #hello{
+        font-family: 'Raleway', Arial, Helvetica, sans-serif;
+        text-align: center;
+        word-wrap: break-word;
+        width: 60%;
+        margin-left: 20%;
+        line-height: 1.8em;
+        margin-bottom: 35px;
+     }
+/*365 DAYS A YEAR, READY, ORGANIC, ORDER*/     
+ h3{
+    font-size: 1.6em;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    text-rendering: optimizeLegibility;
+}
+.icon-big{
+    font-size: 2.6em;
+    display: block;
+    color:#e67e22;
+    margin-bottom: 15px;
+}
+div p{
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    line-height: 1.8em;
+    
+}
+ 
