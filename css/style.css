@@ -312,6 +312,7 @@ header {
 
 .section-meals {
     padding: 0;
+    background-color: #f4f4f4;
 }
 
 .meals-showcase {
@@ -421,21 +422,35 @@ header {
 .box img {
     width: 100%;
     height: auto;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .city-feature {
     margin-bottom: 5px;
 }
 
+/*secrets to aling text and icons*/
+.icon-small{
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+  color: #e67e22;
+  font-size: 155%;
+  line-height: 120%;
+  vertical-align: middle;
+  margin-top: -4px;
+  margin-right: 10px;
+
+
+}
 
 /* ----------------------------------------------- */
 /* TESTIMONIALS */
 /* ----------------------------------------------- */
 
 .section-testimonials {
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/back-customer.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/back-customers.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
@@ -506,7 +521,7 @@ cite img {
 
 
 .plan-price {
-    font-size: 300%;
+    font-size: 200%;
     margin-bottom: 10px;
     font-weight: 100;
     color: #e67e22;
@@ -514,7 +529,7 @@ cite img {
 
 .plan-price span {
     font-size: 30%;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 .plan-price-meal {
