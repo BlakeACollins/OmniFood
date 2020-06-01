@@ -303,6 +303,9 @@ header {
 
 .section-features .long-copy {
     margin-bottom: 30px;
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
 }
 
 
