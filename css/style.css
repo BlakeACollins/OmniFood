@@ -497,7 +497,7 @@ cite img {
 
 .plan-box {
     background-color: #fff;
-    border-radius: 5px;
+    border-radius: 25px;
     width: 90%;
     margin-left: 5%;
     box-shadow: 0 2px 2px #efefef;
@@ -559,7 +559,7 @@ input[type=email],
 select,
 textarea {
     width: 100%;
-    padding: 7px;
+    padding: 10px;
     border-radius: 3px;
     border: 1px solid #ccc;
 }
@@ -581,7 +581,7 @@ input[type=checkbox] {
 
 footer {
     background-color: #333;
-    padding: 50px;
+    padding: 20px;
     font-size: 80%;
 }
 
