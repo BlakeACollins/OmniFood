@@ -1,6 +1,5 @@
 /*
 Orange color: #e67e22
-
 */
 
 
@@ -208,7 +207,8 @@ header {
 
 .hero-text-box {
     position: absolute;
-    width: 1140px;
+    width: 100%;
+    padding-left: 15px;
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
