@@ -129,21 +129,7 @@ h2:after {
 
 /* ----- LINKS ----- */
 
-a:link,
-a:visited {
-    color: #e67e22;
-    text-decoration: none;
-    padding-bottom: 1px;
-    border-bottom: 1px solid #e67e22;
-    -webkit-transition: border-bottom 0.2s, color 0.2s;
-    transition: border-bottom 0.2s, color 0.2s;
-}
 
-a:hover,
-a:active {
-    color: #555;
-    border-bottom: 1px solid transparent;
-}
 
 /* ----- BUTTONS ----- */
 .btn:link,
@@ -164,7 +150,7 @@ input[type=submit] {
     background-color: #e67e22;
     border: 1px solid #e67e22;
     color: #fff;
-    margin-right: 15px;
+    
 }
 
 .btn-ghost:link,
@@ -220,7 +206,7 @@ header {
     height: 100px;
     width: auto;
     float: left;
-    margin-top: 20px;
+    margin-top: 85px;
 }
 
 .logo-black {
@@ -235,7 +221,7 @@ header {
 .main-nav {
     float: right;
     list-style: none;
-    margin-top: 55px;
+    margin-top: 35px;
 }
 
 .main-nav li {
@@ -243,22 +229,6 @@ header {
     margin-left: 40px;
 }
 
-.main-nav li a:link,
-.main-nav li a:visited {
-    padding: 8px 0;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 90%;
-    border-bottom: 2px solid transparent;
-    -webkit-transition: border-bottom 0.2s;
-    transition: border-bottom 0.2s;
-}
-
-.main-nav li a:hover,
-.main-nav li a:active {
-    border-bottom: 2px solid #e67e22;
-}
 
 
 /* Mobile navi */
