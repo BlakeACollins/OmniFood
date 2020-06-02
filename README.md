@@ -4,3 +4,7 @@ I was provided with a mock-up of a meal deliery company and did my best to repli
 
 
 Live Site Here: https://blakeacollins.github.io/OmniFood/
+
+Next steps for this project:
+1. Image optimization
+2. Minifie the CSS 
